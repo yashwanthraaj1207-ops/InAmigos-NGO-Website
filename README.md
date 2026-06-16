@@ -1,4 +1,4 @@
-# 🌟 InAmigos NGO Website
+# 🌟 InAmigos NGO Website - Task 1
 
 A responsive NGO website developed during my **AI Web Developer Internship at InAmigos Foundation**. The project focuses on creating an engaging, accessible, and user-friendly platform to showcase the organization's mission, programs, and social impact.
 
